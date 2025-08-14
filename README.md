@@ -15,16 +15,27 @@ Use JavaScript for cool features in the browser
 
 📁 (Folder & File Guide step-by-step)
 File/Folder	What It Means
+
 app.js	The main switch that turns your site on
+
 package.json	A shopping list of things this app needs to work
+
 public/css/style.css	The “clothes” for your website – controls colors, fonts, and design
+
 public/js/main.js	The “actions” for your site – makes buttons and menus do stuff
+
 public/images/	A photo album for your website pictures
+
 views/index.ejs	The home page of your blog
+
 views/create.ejs, edit.ejs	Pages to write or edit blog posts
+
 views/partials/	Pieces of the page that are reused everywhere (like the header and footer)
+
 routes/auth.js	The map that explains how people sign in, sign up, or log out
+
 middleware/auth.js	The security guard that checks if you’re logged in before letting you in certain pages
+
 models/User.js	A template for what information a user should have
 
 🚦 How to Start This Project
